@@ -13,13 +13,6 @@
 
 <script setup>
 
-
-/*
-* 范围选择，满足以下任意一个条件接口
-* 1.
-* */
-
-
 import {reactive, ref} from "vue";
 
 let selected = ref([]); //被选元素的索引
@@ -110,6 +103,10 @@ let point = {
       }
     ];
 
+
+  /*
+  * 满足以下任意一个条件即可
+  * */
 
     /*
     * 互相判断
