@@ -2,7 +2,7 @@
 
 简单说就是类似电脑桌面，通过鼠标选择多个图标的那种效果。如下：
 
-![image](https://nicen.cn//wp-content/uploads/replace/select.gif)
+![image](https://user-images.githubusercontent.com/84662035/201392302-efad59cf-954d-4c68-83fb-f8cbd7338550.png)
 
 在线查看：[https://nicen.cn/collect/demo](https://nicen.cn/collect/demo/)
  
